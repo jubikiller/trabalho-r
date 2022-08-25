@@ -9,5 +9,4 @@ Fact <- function(n){
 }
 
 Fact(5)
-Fact(6)
-
+Fact(52)
